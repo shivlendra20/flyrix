@@ -5,19 +5,7 @@ A music App using Flutter that can provide lyrics of tracks using third party AP
 
 ## Build Setup And Login Instructions
 
-```bash
-# install project
-$ git clone https://github.com/CyberIkshit/flyrix.git
 
-# open app directory
-$ cd flyrix
-
-# install dependencies
-$ pub get
-
-# build/run
-
-```
 ## Snapshots
 
 Home Screen-:
@@ -33,4 +21,3 @@ When Offline-:
 > ![image](https://user-images.githubusercontent.com/57153473/120052695-23734c80-c044-11eb-9a83-9f2eb9fb50df.png)
 
 
-Still under development!!
